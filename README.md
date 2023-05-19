@@ -17,7 +17,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=whit" />
-  <img align="center" alt="gtx" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img align="center" alt="gtx" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div><br/>
 
 
